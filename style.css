@@ -3,14 +3,13 @@ body {
 }
 
 #board {
-  width: 800px;           /* 背景画像の実寸に合わせる */
+  width: 800px;
   height: 600px;
   background-image: url("background.png");
   background-size: cover;
-  position: relative;
 
   display: grid;
-  grid-template-columns: repeat(auto-fill, 80px);
+  grid-template-columns: repeat(6, 1fr);
   gap: 10px;
   padding: 20px;
 }
