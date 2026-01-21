@@ -7,7 +7,7 @@ const images = [
   "faces/レオナ.png",
   "faces/コウ.png",
   "faces/キョウ.png",
-  "faces/リゲち.png",
+  "faces/リゲル.png",
   "faces/カフ.png",
   "faces/イグノア.png",
   "faces/佐藤.png",
